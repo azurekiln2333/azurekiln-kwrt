@@ -1,0 +1,7 @@
+# Local AI tool configuration. Trellis metadata and AGENTS.md stay tracked.
+/.agents/
+/.claude/
+/.codex/
+/.cursor/
+/.dsh/
+/.pi/
